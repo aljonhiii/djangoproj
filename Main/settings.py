@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'hrdb',      
         'USER': 'root',
-        'PASSWORD': 'pogisialjon_26',      
+        'PASSWORD': '',      
         'HOST': '127.0.0.1',
         'PORT': '3307',
     }
